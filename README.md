@@ -52,7 +52,6 @@ Nº    | CNPJ         | Inscrição Estadual <br>
 ## ▶️ Como Usar
 
 1. **Baixe o executável [ConsultaIE.exe](https://github.com/Wesley-FS/Consulta_IE/blob/main/ConsultaIE.exe)**  
-   (⚠️ Substitua o `#` pelo link de download real, por exemplo: Dropbox, Google Drive, GitHub Releases etc.)
 
 2. **Execute o arquivo `ConsultaIE.exe`**
 
