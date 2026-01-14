@@ -72,12 +72,6 @@ Nº    | CNPJ         | Inscrição Estadual <br>
 
 ---
 
-## 📃 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 ## 💡 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou sugestões.
